@@ -1,5 +1,5 @@
 version: STSv1
 mode: enforce
-mx: 65e7dc1ee0fde552.mx1.emailprofi.seznam.cz
-mx: 65e7dc1ee0fde552.mx2.emailprofi.seznam.cz
+mx: mx1.two.icu
+mx: mx2.two.icu
 max_age: 3600
