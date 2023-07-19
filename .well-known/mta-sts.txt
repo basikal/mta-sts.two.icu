@@ -1,5 +1,4 @@
 version: STSv1
 mode: enforce
-mx: mx1.two.icu
-mx: mx2.two.icu
+mx: smtp.luadns.net
 max_age: 3600
