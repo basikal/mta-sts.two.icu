@@ -1,5 +1,5 @@
 version: STSv1
-mode: enforce
+mode: testing
 mx: 65e7dc1ee0fde552.mx1.emailprofi.seznam.cz
 mx: 65e7dc1ee0fde552.mx2.emailprofi.seznam.cz
 max_age: 3600
